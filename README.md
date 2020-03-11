@@ -4,6 +4,8 @@
 
 如有侵权请告知！
 
-原版：https://github.com/jcq15/whistle/blob/master/%E5%8F%91%E5%93%A8%E5%AD%90%E7%9A%84%E4%BA%BA-%E5%8E%9F%E6%96%87.md
+## 传送门
 
-十六进制编码：https://github.com/jcq15/whistle/blob/master/16%E8%BF%9B%E5%88%B6%E7%BC%96%E7%A0%81
+[原版](https://github.com/jcq15/whistle/blob/master/%E5%8F%91%E5%93%A8%E5%AD%90%E7%9A%84%E4%BA%BA-%E5%8E%9F%E6%96%87.md)
+
+[十六进制编码](https://github.com/jcq15/whistle/blob/master/16%E8%BF%9B%E5%88%B6%E7%BC%96%E7%A0%81)
